@@ -1,1 +1,1 @@
-# set-pre_course Repository
+This repository contains my ALX pre-course work.
