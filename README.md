@@ -1,1 +1,1 @@
-This repository contains my ALX pre-course work.
+This repository contains my ALX pre-course work, and I really love it
